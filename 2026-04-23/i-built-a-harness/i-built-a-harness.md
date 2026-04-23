@@ -1,5 +1,7 @@
 # I Was Babysitting AI Agents. Then I Built a Harness.
 
+![Cover image](i-built-a-harness-cover.png)
+
 *How I stopped babysitting AI agents and started shipping features*
 
 I’ve been building with AI coding assistants for a while. For a long time, I was using them the wrong way.
